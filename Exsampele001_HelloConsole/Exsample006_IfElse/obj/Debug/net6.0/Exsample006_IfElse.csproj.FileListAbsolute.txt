@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Examples\Exsampele001_HelloConsole\Exsample006_IfElse\obj\Debug\net6.0\Exsample006_IfElse.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Examples\Exsampele001_HelloConsole\Exsample006_IfElse\obj\Debug\net6.0\Exsample006_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Examples\Exsampele001_HelloConsole\Exsample006_IfElse\obj\Debug\net6.0\Exsample006_IfElse.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Examples\Exsampele001_HelloConsole\Exsample006_IfElse\obj\Debug\net6.0\Exsample006_IfElse.AssemblyInfo.cs
+C:\Users\User\Desktop\Examples\Exsampele001_HelloConsole\Exsample006_IfElse\obj\Debug\net6.0\Exsample006_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Examples\Exsampele001_HelloConsole\Exsample006_IfElse\bin\Debug\net6.0\Exsample006_IfElse.exe
+C:\Users\User\Desktop\Examples\Exsampele001_HelloConsole\Exsample006_IfElse\bin\Debug\net6.0\Exsample006_IfElse.deps.json
+C:\Users\User\Desktop\Examples\Exsampele001_HelloConsole\Exsample006_IfElse\bin\Debug\net6.0\Exsample006_IfElse.runtimeconfig.json
+C:\Users\User\Desktop\Examples\Exsampele001_HelloConsole\Exsample006_IfElse\bin\Debug\net6.0\Exsample006_IfElse.dll
+C:\Users\User\Desktop\Examples\Exsampele001_HelloConsole\Exsample006_IfElse\bin\Debug\net6.0\Exsample006_IfElse.pdb
+C:\Users\User\Desktop\Examples\Exsampele001_HelloConsole\Exsample006_IfElse\obj\Debug\net6.0\Exsample006_IfElse.dll
+C:\Users\User\Desktop\Examples\Exsampele001_HelloConsole\Exsample006_IfElse\obj\Debug\net6.0\refint\Exsample006_IfElse.dll
+C:\Users\User\Desktop\Examples\Exsampele001_HelloConsole\Exsample006_IfElse\obj\Debug\net6.0\Exsample006_IfElse.pdb
+C:\Users\User\Desktop\Examples\Exsampele001_HelloConsole\Exsample006_IfElse\obj\Debug\net6.0\Exsample006_IfElse.genruntimeconfig.cache
+C:\Users\User\Desktop\Examples\Exsampele001_HelloConsole\Exsample006_IfElse\obj\Debug\net6.0\ref\Exsample006_IfElse.dll
